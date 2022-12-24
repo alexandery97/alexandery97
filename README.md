@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander Yoon Shim</h1>
+<h1 align="center">Hi 👋, I'm Alexander Yoon Shim. Nice to meet you all.</h1>
 <h3 align="center">University 3U Years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandery97&label=Profile%20views&color=0e75b6&style=flat" alt="alexandery97" /> </p>
