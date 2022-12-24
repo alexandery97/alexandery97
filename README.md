@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandery97&" alt="alexandery97" /></p>
 
+![slkimslkim's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=slkimslkim)
