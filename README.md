@@ -16,8 +16,6 @@
 <a href="https://instagram.com/alexander_yoon_shim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexander_yoon_shim" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandery97&show_icons=true&locale=en&layout=compact" alt="alexandery97" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandery97&show_icons=true&locale=en" alt="alexandery97" /></p>
 
 ![slkimslkim's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=slkimslkim)
