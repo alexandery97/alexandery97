@@ -20,6 +20,6 @@
 
 ![slkimslkim's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=slkimslkim)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slkimslkim&layout=compact)](https://github.com/slkimslkim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandery97&layout=compact)](https://github.com/alexandery97/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
