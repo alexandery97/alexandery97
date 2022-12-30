@@ -22,4 +22,4 @@
 
 ![slkimslkim's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=slkimslkim)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
