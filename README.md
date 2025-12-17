@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander Yoon Shim. Nice to meet you all.</h1>
-<h3 align="center">University 3U Years</h3>
+<h3 align="center">I am in master of computer science in FIU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandery97&label=Profile%20views&color=0e75b6&style=flat" alt="alexandery97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandery97" alt="alexandery97" /></a> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Computer science of master program**
 
-- 👯 I’m looking to collaborate on **android application**
+- 👯 I’m looking to collaborate on **Artificial Intelligence or cognitive thinking knwledge in human brain, any related with the computer science major job**
 
 - 📫 How to reach me **alex_shim@naver.com**
 
